@@ -45,7 +45,6 @@ body * {
 #profile p {
   font-weight: 550;
   line-height: 24px;
-
   margin: -5px auto;
 }
 #profile {
@@ -87,7 +86,6 @@ body * {
 }
 ul {
   list-style: none;
-
   display: flex;
   flex-direction: column;
   gap: 16px;
