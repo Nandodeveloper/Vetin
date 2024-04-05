@@ -140,3 +140,9 @@ ul li a:hover {
     left: 0;
   }
 }
+#vreal {
+  display: inline-block;
+}
+#vstar {
+  display: inline-block;
+}
