@@ -142,27 +142,3 @@ ul li a:hover {
     left: 0;
   }
 }
-#direct {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 18px 388px auto;
-  position: absolute;
-  position: fixed;
-}
-#direct2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 18px 360px auto;
-  position: absolute;
-  position: fixed;
-}
-#chat {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: -35px 363px auto;
-  position: absolute;
-  position: fixed;
-}
